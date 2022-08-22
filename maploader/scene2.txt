@@ -1,0 +1,93 @@
+beltRollLeft,-6750208,C:\Users\User\Desktop\戰鬥營\期中遊戲\美術素材\BombChicken 自製\belt\排好的圖片\belt1.png,8,1
+beltRollRight,-52429,C:\Users\User\Desktop\戰鬥營\期中遊戲\美術素材\BombChicken 自製\belt\排好的圖片\belt2.png,8,1
+spike2,-6710887,C:\Users\User\Documents\BombChicken\src\resources\imgs\objs\spike2.png,1,1
+a,-13421773,C:\Users\User\Documents\BombChicken\src\resources\imgs\objs\a.png,2,3
+brick,-13108,C:\Users\User\Documents\BombChicken\src\resources\imgs\objs\brick.png,1,1
+big,-10066432,C:\Users\User\Documents\BombChicken\src\resources\imgs\objs\big.png,2,4
+floor1,-6750055,C:\Users\User\Documents\BombChicken\src\resources\imgs\objs\floor1.png,2,3
+floor2,-10092442,C:\Users\User\Documents\BombChicken\src\resources\imgs\objs\floor2.png,2,2
+pounder,-39169,C:\Users\User\Documents\BombChicken\src\resources\imgs\objs\pounder.png,1,3
+rebirthPoint,-3342388,C:\Users\User\Documents\BombChicken\src\resources\imgs\objs\rebirthPoint.png,1,1
+wall1,-16764058,C:\Users\User\Documents\BombChicken\src\resources\imgs\objs\wall1.png,4,2
+wall2,-13434829,C:\Users\User\Documents\BombChicken\src\resources\imgs\objs\wall2.png,2,2
+steel,-3342592,C:\Users\User\Documents\BombChicken\src\resources\imgs\objs\steel.png,1,1
+yellowSteel,-205,C:\Users\User\Documents\BombChicken\src\resources\imgs\objs\yellowSteel.png,1,1
+stone,-3355444,C:\Users\User\Documents\BombChicken\src\resources\imgs\objs\stone.png,4,1
+spike,-3342337,C:\Users\User\Desktop\戰鬥營\期中遊戲\美術素材\BombChicken 自製\spike\spike_shine\spike_shine01.png,1,1
+chest,-52,C:\Users\User\Desktop\戰鬥營\期中遊戲\美術素材\BombChicken 自製\gem\gem_chest\chest_01.png,1,1
+gemWall,-16724737,C:\Users\User\Desktop\戰鬥營\期中遊戲\美術素材\BombChicken 自製\gem\gem_wall\breakable_big_gem01.png,1,1
+boxStack2,-39322,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\box_stack2.png,4,2
+boxStack,-13369600,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\box_stack2 - 複製.png,3,2
+boxesStack1,-16751053,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\boxes_bg_stack1.png,4,4
+boxesPrint1,-16751002,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\boxes_xl_print1.png,4,2
+boxesPrint2,-16724992,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\boxes_xl_print1 - 複製.png,5,2
+bulkheadSwitch1,-52276,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\bulkhead_switch_side1.png,2,1
+bulkheadSwitch2,-65485,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\bulkhead_switch1.png,1,3
+bulkHeadSwitch2,-3407821,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\bulkhead_switch1 - 複製.png,1,2
+ceiling,-3355393,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\ceiling.png,8,1
+lamp,-10027009,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\ceiling_lamp_dark.png,1,2
+coopEggs,-3355648,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\coop_eggs_light.png,3,2
+coopGround,-13421824,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\coop_ground_dark.png,3,3
+coopGroundL,-13261,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\coop_ground_light.png,4,3
+coopD,-13408768,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\coop_dark.png,3,3
+door,-10092493,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\destructible_door.png,1,2
+pot,-1775159,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\destructible_pot3.png,1,1
+eggs,-3565159,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\eggs_boxes_piled.png,3,2
+eggs1,-5473360,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\eggs_boxes_piled - 複製.png,3,1
+eggs2,-793372,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\eggs_intro.png,6,2
+factoryWall1,-7962215,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\factory_wall1_dark.png,2,3
+factoryWall2,-9664609,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\factory_wall2_dark.png,3,2
+fan1,-15198955,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\fan_dark01.png,1,1
+flap,-4611156,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\flap_trap_01.png,1,1
+grass1,-5985918,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\hay_foreground01.png,2,1
+halfpipe1,-13312,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\halftile_pipe_left_light.png,1,2
+halfpipe2,-6780033,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\halftile_pipe_mid1_light.png,1,2
+halfpipe3,-3407872,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\halftile_pipe_right_light.png,1,2
+pressBtn1,-4206695,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\pressure_button_01.png,2,1
+pressBtn,-9210740,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\skulltile_brick_bottom_middle1.png,1,1
+wallL,-10201514,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\skulltile_brick_wall_left.png,1,1
+wall4,-5795182,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\skulltile_brick_top_right.png,1,1
+wall5,-10989730,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\skulltile_brick_right1.png,1,1
+wall6,-4676958,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\skulltile_brick_wall_right.png,1,1
+wall7,-13228230,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\skulltile_brick_left1.png,1,1
+corner1,-14936811,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\skulltile_32block_skull_D.png,1,1
+bigboxes,-7181975,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\box_stack2 - 複製 - 複製.png,6,4
+statue1,-16763905,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\statue_intro.png,5,7
+corner2,-13818833,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\skulltile_brick_wall_corner_top_left.png,1,1
+corner3,-15201766,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\skulltile_brick_wall_corner_top_right_D.png,1,1
+corner4,-10199707,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\skulltile_brick_bottom_right.png,1,1
+boxStack5,-5690581,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\box_stack1.png,6,4
+corner8,-7704207,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\skulltile_brick_bottom_left_D.png,1,1
+chest1,-154,C:\Users\User\Desktop\美術素材\BombChicken 自製\gem\gem_chest\chest_01.png,3,2
+wallBrickable1,-12241097,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\breakable_hidden_big_dark.png,2,2
+wallstone,-2844263,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\skulltile_32block_plain.png,2,2
+wall8,-13369549,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\factory_tile1_light.png,2,2
+bulkhead3,-6750157,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\bulkhead_switch1 - 複製 (2).png,2,3
+pipe1,-13382656,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\transition_pipe_bottom.png,2,1
+pipe2,-10027162,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\transition_pipe_bottom - 複製.png,3,1
+pipeMid,-14923980,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\transition_pipe_mid.png,3,1
+pipe3,-7419238,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\transition_pipe_top.png,3,1
+switch1,-6789787,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\bulkhead_switch_side1 - 複製.png,3,2
+invisitile1,-10053121,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\invisitile01.png,1,1
+elevator1,-10066177,C:\Users\User\Desktop\美術素材\BombChicken 自製\teleporter\3_close\teleporter_close01.png,2,3
+wall3,-8165529,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\skulltile_brick_bottom_middle1_D.png,1,1
+wallC,-5712954,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\skulltile_brick_bottom_middle1_D - 複製.png,1,1
+light,-9667986,C:\Users\User\Desktop\美術素材\light_procreate.png,3,2
+pressbtnL,-4795717,C:\Users\User\Desktop\美術素材\pressure_button_left.png,1,2
+pressbtnR,-8749730,C:\Users\User\Desktop\美術素材\pressure_button_right.png,1,2
+pressbtnU,-6448229,C:\Users\User\Desktop\美術素材\pressure_button_up.png,2,1
+barrelStack1,-5732473,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\barrel_stack1_L.png,4,4
+barrel1,-11771292,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\barrel3_L.png,1,1
+storage_sign,-4481121,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\storage_sign03.png,2,1
+spiderweb,-16053236,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\spiderweb_left.png,2,1
+spiderweb2,-13816013,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\spiderweb_mid.png,2,1
+spiderweb3,-13880530,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\spiderweb_right.png,1,1
+tile2,-12439251,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\factory_tile_big1_light.png,1,1
+tile3,-6129544,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\factory_tile_big2_light.png,2,2
+billboard1,-789330,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\billboard_freeone1.png,6,2
+billboard2,-3480088,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\billboard_addiction1.png,6,2
+trandpipe1,-7284598,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\transpipe1.png,2,6
+toilet1,-10036614,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\toilet_broken1.png,2,2
+toilet2,-15251693,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\toilet_open2.png,2,3
+toilet3,-10370708,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\toilet_broken2.png,2,3
+toilet,-15189739,C:\Users\User\Desktop\美術素材\bombchicken Asset\Sprite\toilet2.png,2,3
